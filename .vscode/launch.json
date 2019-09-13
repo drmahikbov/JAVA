@@ -1,0 +1,88 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Debug (Launch) - Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Main<ChessComb>",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "ChessComb"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Main<CorrectPath_2>",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "CorrectPath_2"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Main<CorrectPath>",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "CorrectPath"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Numbers<CorrectPath>",
+            "request": "launch",
+            "mainClass": "Numbers",
+            "projectName": "CorrectPath"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Main<KapCst>",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "KapCst"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Main<ScaleBalancing_2>",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "ScaleBalancing_2"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Main<ScaleBalancing>",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "ScaleBalancing"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Main<SquareSubMatrix>",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "SquareSubMatrix"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Diego_CorrectPath",
+            "request": "launch",
+            "mainClass": "Diego_CorrectPath"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Hello",
+            "request": "launch",
+            "mainClass": "Hello"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Main<VowelSquare>",
+            "request": "launch",
+            "mainClass": "Main"
+        }
+    ]
+}
