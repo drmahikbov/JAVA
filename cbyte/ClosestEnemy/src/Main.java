@@ -6,7 +6,7 @@ class Main {
 	
 // Refer to SecondAttempt.java for code	
 // This file has been failed
-    
+    return "hi";
   } 
   
   public static void main (String[] args) {  
