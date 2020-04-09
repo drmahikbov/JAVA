@@ -1,4 +1,5 @@
 import java.util.Arrays;
+import java.util.Scanner;
 
 public class QuestionMark {
 
@@ -36,8 +37,11 @@ public class QuestionMark {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
+		Scanner sc = new Scanner(System.in);
+		String string = sc.nextLine();
+		
 		// First thing, clean the string
-		String string = "aa6?91?";
+		//String string = "aa6?91?";
 		int question_marks_amount = string.replaceAll("[^\\?]", "").length();
 		String clean_string = string.replaceAll("[^\\?\\d]", "");
 		
