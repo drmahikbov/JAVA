@@ -38,6 +38,7 @@ public class App {
     }
     public static void main(String[] args) throws Exception {
         System.out.println(VowelSquare());
+        System.out.println("Hello");
     }
 
     public static boolean isVowel(char c) {
