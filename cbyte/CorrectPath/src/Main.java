@@ -6,7 +6,7 @@ import java.util.*;
 class Main {  
   public static String CorrectPath(String str) { 
 
-    // Let's extract some usefull data from the string
+    // Let's extract some useful data from the string
     int length = str.length();
     int rights = countChar(str, 'r');
     int lefts = countChar(str, 'l');
